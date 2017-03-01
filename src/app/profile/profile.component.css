@@ -1,0 +1,10 @@
+.avatar-image {
+    /*height: 120px;*/
+    width: 100%;
+    border-radius: 50%;
+    max-width: 50%;
+}
+
+.avatar-image img {
+    max-width: 100%;
+}
